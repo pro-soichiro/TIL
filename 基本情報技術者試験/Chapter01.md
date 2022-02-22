@@ -10,12 +10,9 @@
     
     8個のビットをまとめたもの
     
-    <aside>
-    🐈 8bit = 1byte
+    > 🐈 8bit = 1byte
+    > 2byte = 16bit
     
-    2byte = 16bit
-    
-    </aside>
     
 - ビットパターン
     
